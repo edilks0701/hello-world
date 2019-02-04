@@ -1,5 +1,4 @@
 # hello-world
 just another repository
 
-Eryn here! My partner today is also Erin. 
-Funny, huh?
+Eryn here! Learning code in codergirl!
